@@ -41,6 +41,10 @@
     margin-right: 0.4rem;
   }
 
+  .btn--new {
+    top: 2.5rem;
+  }
+
   .current {
     width: 65%;
     padding: 1rem;
@@ -71,7 +75,7 @@
   }
 
   .btn--new {
-    top: 2.5rem;
+    top: 4rem;
   }
 
   .btn--hold {
