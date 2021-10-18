@@ -70,6 +70,10 @@
     margin-right: 0.3rem;
   }
 
+  .btn--new {
+    top: 2.5rem;
+  }
+
   .btn--hold {
     top: 44.1rem;
   }
