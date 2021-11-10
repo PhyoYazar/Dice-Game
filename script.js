@@ -42,6 +42,9 @@ const switchPlayer = function () {
   currentScore = 0;
   player0El.classList.toggle("player--active");
   player1El.classList.toggle("player--active");
+
+  if (diceEl.src == "http://127.0.0.1:8080/photos/dice-1.png") return;
+  diceEl.classList.add("hidden");
 };
 
 //Rolling dice functionality
